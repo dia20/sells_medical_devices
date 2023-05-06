@@ -64,7 +64,7 @@ The size and complexity of the method are two elements that may be contributing 
 
 
 ## Python libraries
-I have Anaconda Python distribution installed on my system. It comes with most of the standard Python libraries I need for this project. The basic Python libraries used in this project are:-
+
 ```
 import pandas as pd
 import seaborn as sns
