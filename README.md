@@ -61,3 +61,25 @@ Based on information we gather from our clients, the classification system we bu
 Unfortunately, the algorithm's accuracy falls short of our expectations. This indicates that the algorithm is not appropriately identifying our consumers as well as we would want. But it's crucial to remember that accuracy is only one of several measures we can use to gauge how well the algorithm is working. 
 
 The size and complexity of the method are two elements that may be contributing to its poor performance.  
+
+
+## Python libraries
+I have Anaconda Python distribution installed on my system. It comes with most of the standard Python libraries I need for this project. The basic Python libraries used in this project are:-
+```
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+%matplotlib inline
+from sklearn.model_selection import cross_val_score
+from sklearn.metrics import roc_curve, auc
+from sklearn.pipeline import make_pipeline
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import label_binarize
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import StratifiedKFold
+import pandas as pd
+import numpy as np
+```
+
