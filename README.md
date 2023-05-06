@@ -17,3 +17,6 @@ The contents of this project are divided into following topics which are listed 
 9. Model development 
 10. Results and Conclusion 
 
+
+# 1. Introduction
+For the purposes of this project, we will create a random forest algorithm to examine customer information from a business that sells medical products. Our objective is to use data mining and business intelligence techniques to give the business owner insights into the links between his customer data and the similarities amongst his customers.
