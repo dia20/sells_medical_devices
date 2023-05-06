@@ -60,4 +60,4 @@ Based on information we gather from our clients, the classification system we bu
 
 Unfortunately, the algorithm's accuracy falls short of our expectations. This indicates that the algorithm is not appropriately identifying our consumers as well as we would want. But it's crucial to remember that accuracy is only one of several measures we can use to gauge how well the algorithm is working. 
 
-The size and complexity of the method are two elements that may be contributing to its poor performance. 
+The size and complexity of the method are two elements that may be contributing to its poor performance.  
